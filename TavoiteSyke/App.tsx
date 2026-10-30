@@ -29,11 +29,13 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
+    marginTop: 50,
+    marginLeft: 20
   },
   heading: {
     fontSize: 24,
-    fontWeight: "bold"
+    fontWeight: "bold",
+    marginTop: 15,
+    marginBottom: 15
   }
 });
